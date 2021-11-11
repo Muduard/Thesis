@@ -1,4 +1,4 @@
-Implementation of my thesis "Rimozione di artefatti da movimento in un'immagine con tecniche di deep learning" (English: Removal of motion artifact from an image with deep learning techniques").
+Implementation of my thesis "Rimozione di artefatti da movimento in un'immagine con tecniche di deep learning" (English: Removal of motion artifacts from an image with deep learning techniques").
 
 
 Test original method:
